@@ -64,6 +64,9 @@ An interactive **Power BI dashboard** was created to visually represent key oper
 
 These visuals help stakeholders quickly identify performance gaps and improvement areas.
 
+<img width="1318" height="734" alt="image" src="https://github.com/user-attachments/assets/64d42329-4a97-4c40-bc19-1d8618cc1e4f" />
+
+
 ---
 
 ## 🗄 SQL Highlights
